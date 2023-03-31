@@ -1,0 +1,11 @@
+{
+  "name": "telegram-anonymous-chat",
+  "description": "bot anonymous chat telegram",
+  "repository": "https://github.com/Rianfirnanda/telegram-anonymous-chat",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "telegram",
+    "tele-bot"
+  ]
+}
