@@ -7,11 +7,11 @@
 <a href="#"><img title="Robo Assistant" src="https://img.shields.io/badge/Telegram-Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RianFirnanda"><img title="Author" src="https://img.shields.io/badge/Author-Rian Firnanda-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sardoregamberdiyev/"><img title="Author" src="https://img.shields.io/badge/Author-Sardor Egamberdiyev-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RianFirnanda/followers"><img title="Followers" src="https://img.shields.io/github/followers/RianFirnanda?color=red&style=flat-square"></a>
-<a href="https://github.com/RianFirnanda/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RianFirnanda/telegram-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/sardoregamberdiyev/"><img title="Followers" src="https://img.shields.io/github/followers/RianFirnanda?color=red&style=flat-square"></a>
+<a href="https://github.com/sardoregamberdiyev/"><img title="Stars" src="https://img.shields.io/github/stars/RianFirnanda/telegram-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/RianFirnanda/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rianfirnanda/telegram-anonymous-chat?color=red&style=flat-square"></a>
 
 <a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>
